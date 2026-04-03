@@ -78,15 +78,13 @@ I build across the full stack: from database architecture and REST APIs to respo
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![Bouric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bouric0076&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouric0076&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bouric0076&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bouric0076&show_icons=true&theme=radical&hide_border=true" alt="Bouric's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Bouric0076&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Bouric0076&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
