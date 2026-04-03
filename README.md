@@ -3,7 +3,7 @@
 # 👨‍💻 Bouric Enos
 ### **Full-Stack Developer | Founder, Sinaps Technology | Building Africa's Digital Future**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Bouric0076&theme=radical&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://stable-github-profile-trophy.vercel.app/?username=Bouric0076&theme=radical&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -80,15 +80,13 @@ I build across the full stack: from database architecture and REST APIs to respo
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Bouric0076&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouric0076&layout=compact&theme=radical&hide_border=true) |
+![Bouric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bouric0076&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouric0076&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bouric0076&theme=radical&hide_border=true)
 
 </div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bouric0076&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
