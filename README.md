@@ -1,116 +1,90 @@
 <div align="center">
 
-# 👨‍💻 Bouric Enos
-### **Full-Stack Developer | Founder, Sinaps Technology | Building Africa's Digital Future**
+# Bouric Enos
 
-[![Trophies](https://stable-github-profile-trophy.vercel.app/?username=Bouric0076&theme=radical&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+**Founder-engineer building the data infrastructure African institutions don't have yet — starting with maternal healthcare.**
 
----
+[Portfolio](https://ric-web.onrender.com) · [LinkedIn](https://linkedin.com/in/bouric-enos) · [Email](mailto:bouricenos0@gmail.com)
 
-*"Building real products that solve real problems — one line of code at a time."*
-
-[**LinkedIn**](https://linkedin.com/in/bouric-enos) • [**Portfolio**](https://github.com/Bouric0076) • [**Fiverr**](https://www.fiverr.com/bouricenos) • [**Email**](mailto:bouricenos0@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Bouric0076&color=333333&style=flat&label=views)
 
 </div>
 
----
+<br>
 
-## 📖 About Me
+## What I do
 
-I'm a 3rd year **Computer Technology student at JKUAT** and Founder of **Sinaps Technology** — a Nairobi-based software startup building context-aware digital solutions for Africa's education, healthcare, and civic sectors.
+I build software that captures data institutions in Kenya currently don't structure. My focus right now is maternal healthcare — where knowing *why* patients drop out of antenatal care matters more than reminding them to show up.
 
-I build across the full stack: from database architecture and REST APIs to responsive frontends and cloud deployment. Beyond development, I actively explore cybersecurity and AI to build more secure, intelligent systems.
+Co-founder of **Sinaps Technology**, a Nairobi venture studio where I lead product and engineering.
 
----
+<br>
 
-## 🎯 Focus Areas
+## Featured work
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌍 Civic Tech</h3>
-      Building platforms like <b>PublicBridge</b> to bridge the gap between citizens and government through transparent digital engagement.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Applied AI</h3>
-      Integrating AI and NLP into healthcare and civic tools, with a focus on accessibility and real-world deployment.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏢 Sinaps Technology</h3>
-      Building a student-led software startup solving African institutional challenges in education, health, and governance.
-    </td>
-  </tr>
-</table>
+### MediRemind
+A maternal care retention platform, not another appointment reminder.
 
----
+It started as a generic SMS/email reminder tool — and was dismissed by judges on title alone. That rejection forced a rebuild: MediRemind is now a closed-loop ANC dropout recovery system, built around structured dropout-reason data that doesn't exist anywhere else in the Kenyan market. That data is the product's real moat.
 
-## 🛠️ Tech Stack
+**Stage:** AfyaVentures Residence Programme
+
+`Django REST Framework` `Flutter` `React` `Africa's Talking` `Firebase Cloud Messaging`
+
+[mediremind.app](https://mediremind.app)
+
+### MentorMAMA
+A mobile-first clinical mentorship platform for maternity units, built as a Samsung Innovation Campus capstone. Same underlying thesis as MediRemind — institutional healthcare data, structured and made usable — applied to clinical mentorship rather than patient retention.
+
+<br>
+
+## Also building
+
+- **PublicBridge** — AI-assisted platform routing citizen complaints to the right government department
+- **Sinaps Technology** — the studio behind this work, co-founded with six JKUAT students, live at [sinapstechnology.tech](https://sinapstechnology.tech), currently piloting with Icel Steps Learning
+
+<br>
+
+## Stack
+
+`Python` `Django` `Flutter` `Dart` `React` `PostgreSQL` `Firebase` `Supabase`
+
+<br>
+
+## GitHub activity
 
 <div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bouric0076&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=333&title_color=333" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bouric0076&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=333" />
 </div>
 
----
-
-## 🚀 Projects
-
 <div align="center">
-
-| Project | Description | Stack | Live |
-| :--- | :--- | :--- | :--- |
-| [**PublicBridge**](https://publicbridge.onrender.com/) | AI-powered civic platform — classifies and routes citizen complaints to government departments in real time | React • Django • PostgreSQL | [Live](https://publicbridge.onrender.com/) |
-| [**EduLink**](https://edulink.jhubafrica.com/) | Internship management platform connecting students, institutions, and employers across Kenya | React • Node.js • PostgreSQL | [Live](https://edulink.jhubafrica.com/) |
-| [**MediRemind**](https://mediremind-frontend.onrender.com/) | Healthcare appointment reminder system with multi-channel SMS, email, and push notifications | React • Django • PostgreSQL | [Live](https://mediremind-frontend.onrender.com/) |
-| [**Icel Steps Learning**](#) | Client website for a Nairobi special needs education consultancy serving neurodivergent children | HTML • CSS • JavaScript | [Live](#) |
-| [**Sinaps Technology**](#) | Company website for a Nairobi-based software startup building Africa's digital infrastructure | HTML • CSS • JavaScript | [Live](#) |
-| **Emora AI** | AI-driven emotional support tool built with NLP for mental wellness accessibility | Python • NLP • AI/ML | In Dev |
-
+  <img src="https://streak-stats.demolab.com/?user=Bouric0076&theme=default&hide_border=true&background=FFFFFF00&ring=333333&fire=333333&currStreakLabel=333333" />
 </div>
 
----
+<br>
 
-## 📈 GitHub Stats
+## Background
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bouric0076&show_icons=true&theme=radical&hide_border=true" alt="Bouric's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Bouric0076&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Bouric0076&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- Software Engineering, Power Learn Project Africa (2024 cohort)
+- WIPO "Scale Up Your IP Kenya" training, JKUAT
+- Samsung Innovation Campus — capstone: MentorMAMA
+- Hackathons: BUILD54, NASA Space Apps Challenge, Kenya Tech Summit
 
----
+<br>
 
-## 🏅 Certifications
-
-- 🐧 **Linux Unhatched** — Cisco Networking Academy
-- ☸️ **Introduction to Kubernetes (LFS158)** — The Linux Foundation
-- 🤖 **Generative AI Training** — OUK × BCS
-- 💡 **Software Engineering** — Power Learn Project
-- 🌍 **ALX Africa** — Software Engineering Program
-
----
-
-## 🤝 Let's Connect
+## Contribution graph
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bouric-enos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouric0076)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bouricenos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouricenos0@gmail.com)
-
+  <img src="https://raw.githubusercontent.com/Bouric0076/Bouric0076/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <i>BSc. Computer Technology @ JKUAT | Founder, Sinaps Technology | Nairobi, Kenya</i>
+
+**Open to freelance work and collaboration on institutional data products.**
+
+[Portfolio](https://ric-web.onrender.com) · [LinkedIn](https://linkedin.com/in/bouric-enos) · [Email](mailto:bouricenos0@gmail.com)
+
 </div>
